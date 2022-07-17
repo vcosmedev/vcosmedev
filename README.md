@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Víctor 👋</h1>
 <h3 align="center">A passionate developer in progress from Spain based in Mexico</h3>
 
-                        📫 How to reach me: victorcosmema@gmail.com
+                               📫 How to reach me: victorcosmema@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
