@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Hi, I'm Víctor 👋</h1>
+<h1 align="center">Hi! I'm Víctor 👋</h1>
 <!-- 
 <h3 align="center">A passionate developer in progress from Spain based in Mexico</h3>
 
